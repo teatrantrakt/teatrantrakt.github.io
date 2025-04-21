@@ -1,0 +1,4 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'pl-pl'
+title = 'Strona Teatru Antrakt'
+theme = 'ananke'
