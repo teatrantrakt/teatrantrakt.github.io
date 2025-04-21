@@ -1,4 +1,5 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://teatrantrakt.github.io/'
 languageCode = 'pl-pl'
 title = 'Strona Teatru Antrakt'
 theme = 'ananke'
+cacheDir = 'resources/_gen'
