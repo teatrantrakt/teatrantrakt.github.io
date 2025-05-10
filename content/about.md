@@ -8,28 +8,28 @@ Teatr Studencki UMK "Antrakt" - teatr studencki powstały w 2022 r. w Toruniu. A
 ## Historia
 
 ### 2022
-Teatr Antrakt został założony i jest prowadzony przez studentów toruńskiej uczelni: Dankę Greding i Mikołaja Dobka[2]. Wiosną 2022 r. grupa realizowała swój pierwszy spektakl, "Tajemną Historię" stanowiącą adaptacje książki Donny Tartt. Sztuka została zaprezentowana dwukrotnie na Nowej Scenie Akademickiego Centrum Kultury i Sztuki „Od Nowa”: premierowo 20 czerwca, a następnie w październiku podczas Ogólnopolskie Forum Kultury Studenckiej ŻakArt[3][4][5]. 
+Teatr Antrakt został założony i jest prowadzony przez studentów toruńskiej uczelni: Dankę Greding i Mikołaja Dobka. Wiosną 2022 r. grupa realizowała swój pierwszy spektakl, "Tajemną Historię" stanowiącą adaptacje książki Donny Tartt. Sztuka została zaprezentowana dwukrotnie na Nowej Scenie Akademickiego Centrum Kultury i Sztuki „Od Nowa”: premierowo 20 czerwca, a następnie w październiku podczas Ogólnopolskie Forum Kultury Studenckiej ŻakArt. 
 
 ### 2023
-W drugim roku swojej działalności Teatr Antrakt pracował nad spektaklem "Legenda o Karmazynie", opartym na autorskim scenariuszu Danki Greding i Mikołaja Dobka[6]. Premiera spektaklu miała miejsce 27 marca w ramach 32. Alternatywnych Spotkań Teatralnych „Klamra”, podczas których studencka grupa była uczestnikiem konkursu głównego[7]. Spektakl zaprezentowano ponownie 2 kwietnia w "Od Nowie". 
+W drugim roku swojej działalności Teatr Antrakt pracował nad spektaklem "Legenda o Karmazynie", opartym na autorskim scenariuszu Danki Greding i Mikołaja Dobka. Premiera spektaklu miała miejsce 27 marca w ramach 32. Alternatywnych Spotkań Teatralnych „Klamra”, podczas których studencka grupa była uczestnikiem konkursu głównego. Spektakl zaprezentowano ponownie 2 kwietnia w "Od Nowie". 
 
 ### 2024
-Na początku roku Danka Greding otrzymała dofinansowanie na działalność Teatru Antrakt w 2024 r. w ramach Stypendium Miasta Torunia w dziedzinie kultury (projekt "Kultura studencka w działaniu")[8]. W pierwszej połowie roku teatr pierwszy raz sięgnął po scenariusz już wcześniej istniejący, realizując komediowy spektakl "Cyjanek Potasu" Juana José Alonso Millána, w reżyserii Paliny Kuzemchyk. Spektakl został premierowo zaprezentowany w Wojewódzkim Ośrodku Animacji Kultury w Toruniu 6 i 7 kwietnia[9]. 
+Na początku roku Danka Greding otrzymała dofinansowanie na działalność Teatru Antrakt w 2024 r. w ramach Stypendium Miasta Torunia w dziedzinie kultury (projekt "Kultura studencka w działaniu"). W pierwszej połowie roku teatr pierwszy raz sięgnął po scenariusz już wcześniej istniejący, realizując komediowy spektakl "Cyjanek Potasu" Juana José Alonso Millána, w reżyserii Paliny Kuzemchyk. Spektakl został premierowo zaprezentowany w Wojewódzkim Ośrodku Animacji Kultury w Toruniu 6 i 7 kwietnia. 
 
-W maju Teatr Antrakt zaprezentował spektakl "Legenda o Karmazynie" podczas XII Ogólnopolskiego Festiwalu Studencka Wiosna Teatralna "Pre-teksty", organizowanego przez Akademickie Centrum Kultury "Chatka Żaka" w Lublinie[10][11]. 
+W maju Teatr Antrakt zaprezentował spektakl "Legenda o Karmazynie" podczas XII Ogólnopolskiego Festiwalu Studencka Wiosna Teatralna "Pre-teksty", organizowanego przez Akademickie Centrum Kultury "Chatka Żaka" w Lublinie. 
 
-Trzeci sezon funkcjonowania Antrakt zakończyło organizacją wydarzenia "Kawa czy herbata? Dwie sztuki na drugie urodziny Teatru Antrakt", które odbyło się 21 i 22 czerwca 2024 roku. Teatr zaprezentował wówczas na nowej scenie Od Nowy spektakle "Cyjanek Potasu" i "Legenda o Karmazynie"[12]. 
+Trzeci sezon funkcjonowania Antrakt zakończyło organizacją wydarzenia "Kawa czy herbata? Dwie sztuki na drugie urodziny Teatru Antrakt", które odbyło się 21 i 22 czerwca 2024 roku. Teatr zaprezentował wówczas na nowej scenie Od Nowy spektakle "Cyjanek Potasu" i "Legenda o Karmazynie". 
 
-W nowym roku akademickim grupa powróciła do swojego debiutanckiego tytułu, prezentując "Tajemną Historię" podczas pierwszej edycji Ogólnopolskiego Przeglądu Kultury Studenckiej, zorganizowanego przez Samorząd Studencki UMK 7 grudnia w "Od Nowie"[13][14]. 
+W nowym roku akademickim grupa powróciła do swojego debiutanckiego tytułu, prezentując "Tajemną Historię" podczas pierwszej edycji Ogólnopolskiego Przeglądu Kultury Studenckiej, zorganizowanego przez Samorząd Studencki UMK 7 grudnia w "Od Nowie". 
 
 ### 2025
 
-Grupa przystąpiła do przygotowań kolejnej, planowanej na późną wiosnę premiery: spektaklu tanecznego zrealizowanego na podstawie książki "Nie opuszczaj mnie" Kazuo Ishiguro w reżyserii Natalii Browarczyk. Realizacja sztuki finansowana będzie z funduszy Stypendium Miasta Torunia w dziedzinie kultury (projekt: „Toruń jako miejsce rozwoju akademickiego teatru tańca”)[15]. 
+Grupa przystąpiła do przygotowań kolejnej, planowanej na późną wiosnę premiery: spektaklu tanecznego zrealizowanego na podstawie książki "Nie opuszczaj mnie" Kazuo Ishiguro w reżyserii Natalii Browarczyk. Realizacja sztuki finansowana będzie z funduszy Stypendium Miasta Torunia w dziedzinie kultury (projekt: „Toruń jako miejsce rozwoju akademickiego teatru tańca”). 
 
 ## Nagrody
 Teatr Antrakt na rozdaniu nagród XII Ogólnopolskiego Festiwalu Studencka Wiosna Teatralna 2024 
 
-W 2024 roku podczas Studenckiej Wiosny Teatralnej organizowanej przez Akademickie Centrum Kultury w Lublinie, Teatr zdobył nagrodę publiczności oraz Grand Prix festiwalu za spektakl "Legenda o Karmazynie"[16][17][18]. 
+W 2024 roku podczas Studenckiej Wiosny Teatralnej organizowanej przez Akademickie Centrum Kultury w Lublinie, Teatr zdobył nagrodę publiczności oraz Grand Prix festiwalu za spektakl "Legenda o Karmazynie". 
 
 ## Zrealizowane premiery
 
@@ -41,6 +41,6 @@ Cyjanek Potasu (reż. Palina Kuzemchyk) - data premiery: 7.04.2024
 
 ## Inna Działalność
 
-Teatr Antrakt od 2023 r. corocznie organizuje performensy w ramach "Nocy Kultury w Maiusie"[19][20]. Członkowie teatru realizują także otwarte warsztaty teatralno-taneczne, np. w ramach juwenaliów[21] czy aktywności związanymi z wydziałowymi świętami[22]. 
+Teatr Antrakt od 2023 r. corocznie organizuje performensy w ramach "Nocy Kultury w Maiusie". Członkowie teatru realizują także otwarte warsztaty teatralno-taneczne, np. w ramach juwenaliów czy aktywności związanymi z wydziałowymi świętami. 
 
 ---
