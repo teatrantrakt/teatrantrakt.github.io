@@ -1,6 +1,6 @@
 baseURL = 'https://teatrantrakt.github.io/'
 languageCode = 'pl-pl'
-title = 'Strona Teatru Antrakt'
+title = 'Teatr Antrakt'
 theme = 'hugo-coder'
 defaultcontentlanguage = "pl-pl"
 
@@ -18,7 +18,7 @@ style = "github-dark"
   avatarurl = "images/logo.png"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
+  faviconSVG = "/img/favicon.ico"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
@@ -44,7 +44,7 @@ style = "github-dark"
   name = "Facebook"
   icon = "fa-brands fa-square-facebook fa-2x"
   weight = 1
-  url = "https://www.facebook.com/search/top?q=teatr%20studencki%20umk%20%22antrakt%22"
+  url = "https://www.facebook.com/profile.php?id=100083047405294"
 [[params.social]]
   name = "Instagram"
   icon = "fa-brands fa-square-instagram fa-2x"
@@ -60,7 +60,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Spektakle"
   weight = 2
-  url  = "posts/"
+  url  = "performances/"
 [[menu.main]]
   name = "O nas"
   weight = 1
@@ -68,8 +68,8 @@ style = "github-dark"
 [[menu.main]]
   name = "Członkowie"
   weight = 3
-  url = "about/"
+  url = "members/"
 [[menu.main]]
   name = "Galeria"
-  weight = 3
-  url = "about/"
+  weight = 4
+  url = "gallery/"
