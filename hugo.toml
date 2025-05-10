@@ -22,7 +22,7 @@ style = "github-dark"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2022
 
   enableTwemoji = true
 
@@ -41,27 +41,35 @@ style = "github-dark"
 
 # Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa-brands fa-github fa-2x"
+  name = "Facebook"
+  icon = "fa-brands fa-square-facebook fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://www.facebook.com/search/top?q=teatr%20studencki%20umk%20%22antrakt%22"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa-brands fa-gitlab fa-2x"
+  name = "Instagram"
+  icon = "fa-brands fa-square-instagram fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://www.instagram.com/teatr_antrakt/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa-brands fa-x-twitter fa-2x"
+  name = "YouTube"
+  icon = "fa-brands fa-square-youtube fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://www.youtube.com/@teatrantrakt"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
+  name = "Spektakle"
+  weight = 2
   url  = "posts/"
 [[menu.main]]
-  name = "About"
-  weight = 2
+  name = "O nas"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Członkowie"
+  weight = 3
+  url = "about/"
+[[menu.main]]
+  name = "Galeria"
+  weight = 3
   url = "about/"
