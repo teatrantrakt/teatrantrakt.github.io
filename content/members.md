@@ -55,10 +55,10 @@ w Antrakcie od 2022 r., student bezpieczeństwa wewnętrznego. Podczas spektakli
 ## Artyści współpracujący: 
 
 ### Tomek Misiak
-/muzyk/ - Współpracuje z Antraktem od 2023 r., student informatyki. Główny twórca soundtracku do “Legendy o Karmazynie”. Perkusista, gitarzysta i producent w zespole Etterklang i współtwórca projektu Kokon. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.
+**muzyk** - Współpracuje z Antraktem od 2023 r., student informatyki. Główny twórca soundtracku do “Legendy o Karmazynie”. Perkusista, gitarzysta i producent w zespole Etterklang i współtwórca projektu Kokon. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.
 
 ### Filip Figiel
-/muzyk/ - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. 
+**muzyk** - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. 
 
 ## Dawniej z Antraktem współpracowali: 
 Maria Magdalena Podolecka, Aleksandra Matuszewska, Agata Kobus, Wiktor Szymański, Jakub Zych, Bartosz Myśliński, Eryk Trzciński. 
