@@ -1,6 +1,5 @@
 +++
 date = '2025-05-10T17:12:05+02:00'
-draft = true
 title = 'Nasze Spektakle'
 +++
 

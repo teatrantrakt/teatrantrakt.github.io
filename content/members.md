@@ -1,6 +1,5 @@
 +++
 date = '2025-05-10T17:36:00+02:00'
-draft = true
 title = 'Członkowie Antraktu'
 +++
 ### Danka Greding
