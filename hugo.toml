@@ -2,9 +2,7 @@ baseURL = 'https://teatrantrakt.github.io/'
 languageCode = 'pl-pl'
 title = 'Strona Teatru Antrakt'
 theme = 'hugo-coder'
-
 defaultcontentlanguage = "pl-pl"
-
 
 [pagination]
 pagerSize = 20
