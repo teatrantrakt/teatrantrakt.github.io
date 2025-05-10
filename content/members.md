@@ -48,7 +48,10 @@ w Antrakcie od 2022 r., student bezpieczeństwa wewnętrznego. Podczas spektakli
 ### Patrycja Łajewska
 **aktorka** - W Antrakcie od 2022 r., studentka prawa.  
 
+
 ### Łukasz Gołębiewski
+![Łukasz Gołębiewski](/images/goleb.jpg)
+
 **aktor, twórca i administrator portalu internetowego** - W Antrakcie od 2024 r., student architektury informacji. Przed dołączeniem do Antraktu występował w Teatrze TU z Czarnkowa. Śpiewa w chórze akademickim UMK oraz uczy się wokalistyki klasycznej w Zespole Szkół Muzycznych im. Karola Szymanowskiego w Toruniu.
  
 
