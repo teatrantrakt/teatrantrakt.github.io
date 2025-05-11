@@ -2,6 +2,7 @@
 date = '2025-05-10T17:36:00+02:00'
 title = 'Członkowie Antraktu'
 +++
+
 ### Danka Greding
 **kierowniczka, reżyserka, scenopisarka, aktorka** - założycielka Teatru Studenckiego UMK “Antrakt”, studentka kulturoznawstwa. W Antrakcie współtworzyła scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując i występując w obu ww. spektaklach. Przed Antraktem występowała w Teatrze R. Bezimienni przy toruńskim MDK. W 2022 roku otrzymała Nagrodę Rektora za działalność organizacyjną na rzecz społeczności akademickiej, a w 2024 r. zrealizowała projekt “Kultura studencka w działaniu” w ramach Stypendium Miasta Torunia w dziedzinie kultury. Norweski to jej drugi język, a w wyjątkowych sytuacjach nawet pierwszy. Jest zadeklarowanym morzarzem.   
 
@@ -24,6 +25,9 @@ title = 'Członkowie Antraktu'
 **aktor, subkultura, koneser codzienności** - W Antrakcie od 2024 r. Wcześniej występował w grupie Scena Młodych Studio P przy toruńskim MDK. Zdobył tam taką odznakę bo był fajny. Enrique, Henry, Wilk - co spektakl praktycznie gra to samo. W wolnych chwilach jest samochodem. Powszechnie uznawany za nieśmiesznego. Chciałby umrzeć z miłości. Jego zaimki to kalafior/tadeusz. 
 
 ### Norbert Pytel
+
+![Norbert Pytel](/images/norbol.jpg)
+
 **aktor, produkcja filmowa, stolarka okienna, różdżkarstwo** - W Antrakcie od dnia jego powstania, student dziennikarstwa, niedoszły historyk. Poza grą w spektaklach odpowiada za postprodukcje promocyjnych materiałów wideo. Działa w Radio Sfera UMK. Zadzwonił kiedyś na policję, gdy zobaczył jak ktoś kradnie kinder czekoladki w Lidlu. Zodiakalny śmieszek, powszechnie uznawany za dowcipnego. Udaje, że zna łacinę. Niedoszły papież. 
 
 ### Piotr Pawłowski
@@ -43,7 +47,9 @@ title = 'Członkowie Antraktu'
 
 ### Łukasz Gołębiewski
 
-![Łukasz Gołębiewski](/images/goleb.jpg)
+<div style="text-align: center;">
+  <img src="/images/goleb.jpg" alt="Łukasz Gołębiewski" style="max-width: 100%; height: auto;">
+</div>
 
 **aktor, twórca i administrator portalu internetowego** - W Antrakcie od 2024 r., student architektury informacji. Przed dołączeniem do Antraktu występował w…wszędzie, ale przede wszystkim w Teatrze Tu z Czarnkowa. Entuzjasta organicznych związków chemicznych. Przyszły ksiądz Robak. Kradnie żarty od Ania Piórkowska, stylizując się na osobę zabawną, którą nie jest. 
 
@@ -67,4 +73,5 @@ title = 'Członkowie Antraktu'
 ### Filip Figiel
 **muzyk** - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.
 
-**Dawniej z Antraktem współpracowali:** Maria Podolecka, Aleksandra Matuszewska, Natalia Cywińska, Agata Kobus, Oskar Cyms, Wiktor Szymański, Jakub Zych, Jan Englert, Bartosz Myśliński, minecraftblow, Eryk Trzciński. 
+### Dawniej z Antraktem współpracowali: 
+Maria Podolecka, Aleksandra Matuszewska, Natalia Cywińska, Agata Kobus, Oskar Cyms, Wiktor Szymański, Jakub Zych, Jan Englert, Bartosz Myśliński, minecraftblow, Eryk Trzciński. 

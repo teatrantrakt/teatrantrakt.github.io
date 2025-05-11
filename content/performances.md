@@ -3,7 +3,9 @@ date = '2025-05-10T17:12:05+02:00'
 title = 'Nasze Spektakle'
 +++
 
-![Tajemna Historia](/images/historia.jpg)
+<div style="text-align: center;">
+  <img src="/images/historia2.jpg" alt="Tajemna Historia" style="max-width: 100%; height: auto;">
+</div>
 
 ## Tajemna Historia
 
