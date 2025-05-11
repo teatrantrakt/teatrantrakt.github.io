@@ -71,7 +71,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Galeria"
   weight = 4
-  url = "gallery/"
+  url = "gallerysite/"
 
   [markup]
   [markup.goldmark]
