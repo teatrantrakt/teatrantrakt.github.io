@@ -12,7 +12,7 @@ title = 'Nasze Spektakle'
 
 Grupa studentów filologii klasycznej zanurza się w świecie spirytyzmu, co jednak w połączeniu z ich przyziemnymi problemami rozpoczyna tragiczny bieg wydarzeń. Początkowa przyjaźń między bohaterami, w obliczu pewnych dramatycznych zdarzeń, staje się toksyczna i nabiera ciężaru. Próby naprawy nieświadomie popełnionych błędów prowadzą do działań, które zamiast łagodzić sytuacje, napędzają bieg ku eskalacji emocjonalnych napięć. Postacie dobitnie przekonują się o prawdzie sentencji wpajanej im przez ich mentorkę: “Piękno jest trwogą”. 
 
-### Obsada: 
+### Aktualna obsada: 
 
 - Richard - Jakub Michalak
 - Henry - Jakub Stępień  
@@ -94,6 +94,8 @@ Spektakl “Legenda o Karmazynie” to opowieść o traumach, które czają się
 </div>
 
 Drogi przemiłej ciotki, ukochanej kuzynki i uroczego siostrzeńca przecinają się w dziwnym domu w małym hiszpańskim miasteczku, w noc poprzedzającą Dzień Wszystkich Świętych. Aspirujący lekarz Enrique wraca do rodzinnego domu wraz z narzeczoną i już od progu zostaje wplątany w sieć intryg. W powietrzu unosi się zapach kawy i zbliżającej się burzy… Na co gotowa jest cała hiszpańska rodzina, gdy czeka na spadek? Dlaczego kobiety z Badajozu są zastraszane przez jakąś istotę? Wszystko będzie tak szokujące, że aż śmieszne! 
+
+### Aktualna obsada:
 
 - Marta - Natalia Cywińska 
 - Adela - Milena Frej 
