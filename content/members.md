@@ -45,9 +45,10 @@ title = 'Członkowie Antraktu'
 ### Patrycja Łajewska
 **aktorka** - W Antrakcie od 2022 r., studentka prawa. Okazjonalnie stand-uper.  Wiecie jak się nazywa związek grafów? § 
 
-### Łukasz Gołębiewski
+
 
 <div style="text-align: center;">
+    <h3>Łukasz Gołębiewski</h3>
   <img src="/images/goleb.jpg" alt="Łukasz Gołębiewski" style="max-width: 100%; height: auto;">
 </div>
 

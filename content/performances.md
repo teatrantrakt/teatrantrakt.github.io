@@ -4,10 +4,9 @@ title = 'Nasze Spektakle'
 +++
 
 <div style="text-align: center;">
-  <img src="/images/historia2.jpg" alt="Tajemna Historia" style="max-width: 100%; height: auto;">
+    <h2>Tajemna Historia</h2>
+    <img src="/images/historia.jpg" width="429" height="500" alt="Tajemna Historia" style="max-width: 100%; height: auto;">
 </div>
-
-## Tajemna Historia
 
 > Zdradliwie leżące kamienie. Ciało ze skręconym karkiem na dnie wąwozu. Ciągnące się wzdłuż zbocza błotniste ślady obcasów. Po prostu wypadek w czasie pieszej wycieczki. I mogłoby się tak skończyć, gdyby nie…
 
@@ -40,9 +39,18 @@ Grupa studentów filologii klasycznej zanurza się w świecie spirytyzmu, co jed
 
 **Wsparcie koncepcyjne przy produkcji premierowej wersji spektaklu:** Aleksandra Matuszewska 
 
-![Legenda o Karmazynie](/images/karmazyna.jpg)
+**W przeszłości spektakl współtworzyli:** 
+- Donna - Maria Podolecka
+- Judy - Natalia Cywińska
+- Agentka FBI - Ola Matuszewska
+- Henry - Wiktor Szymański 
+- Charles– Jakub Zych,
+- Agent FBI - Bartosz Myśliński
 
-## Legenda o Karmazynie
+<div style="text-align: center;">
+    <h2>Legenda o Karmazynie</h2>
+    <img src="/images/karmazyna.jpg" width="429" height="500" alt="Legenda o Karmazynie" style="max-width: 100%; height: auto;">
+</div>
 
 > Strzały – krzyk – ciemność. To wszystko, co pamięta Dziewczyna, gdy budzi się w nieznanym jej miejscu. Enigmatyczny świat, w którym się znalazła, łączy w sobie elementy baśni z mrokiem horroru. Bohaterowie desperacko poszukują ucieczki z krainy pozbawionej słońca, gdzie prześladowani są przez cienie swojej przeszłości. Jednak bieg wydarzeń jest nieodwracalny… 
 
@@ -58,8 +66,9 @@ Spektakl “Legenda o Karmazynie” to opowieść o traumach, które czają się
 - Kapelusznik - Łukasz Gołębiewski  
 - Profesor Wilk - Jakub Stępień  
 - Posłaniec - Piotr Pawłowski 
-- Psychiatra 1 – Anna Piórkowska 
-- Psychiatra 2 - Norbert Pytel 
+- Psychiatra 1 - Anna Piórkowska 
+- Psychiatra 2 - Tomasz Dziak
+- Psychiatra 3 - Norbert Pytel 
 - Dziewczynka z Latarkami – Natalia Browarczyk 
 
 **Scenariusz i reżyseria:** Danka Greding, Mikołaj Dobek 
@@ -72,11 +81,17 @@ Spektakl “Legenda o Karmazynie” to opowieść o traumach, które czają się
 
 **Oświetlenie:** Natalia Marchelak, Jakub Kaliski 
 
-**W przeszłości spektakl współtworzyli:** Okia – Natalia Cywińska, Kapelusznik – Jakub Zych, Psychiatra 1 – Maria Podolecka, współprodukcja – Agata Kobus 
+**W przeszłości spektakl współtworzyli:**
+ - Okia – Natalia Cywińska
+ - Kapelusznik – Jakub Zych
+ - Profesor Wilk - Wiktor Szymański
+ - Psychiatra 1 – Maria Podolecka
+ - współprodukcja – Agata Kobus 
 
-![Cyjanek Potasu](/images/cyjanek.jpg)
-
-## Cyjanek Potasu
+<div style="text-align: center;">
+    <h2>Cyjanek Potasu</h2>
+    <img src="/images/cyjanek.jpg" width="429" height="500" alt="Cyjanek Potasu" style="max-width: 100%; height: auto;">
+</div>
 
 Drogi przemiłej ciotki, ukochanej kuzynki i uroczego siostrzeńca przecinają się w dziwnym domu w małym hiszpańskim miasteczku, w noc poprzedzającą Dzień Wszystkich Świętych. Aspirujący lekarz Enrique wraca do rodzinnego domu wraz z narzeczoną i już od progu zostaje wplątany w sieć intryg. W powietrzu unosi się zapach kawy i zbliżającej się burzy… Na co gotowa jest cała hiszpańska rodzina, gdy czeka na spadek? Dlaczego kobiety z Badajozu są zastraszane przez jakąś istotę? Wszystko będzie tak szokujące, że aż śmieszne! 
 
