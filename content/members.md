@@ -127,8 +127,6 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/marcelina.webp" alt="Marcelina Stankiewicz" style="max-width: 100%; height: auto;">
 </div>
 
-Jakub Bąk
-
 <div style="text-align: center;">
     <h3>Jakub Bąk</h3>
   <img src="/images/actors/kuba.webp" alt="Jakub Bąk" style="max-width: 100%; height: auto;">
