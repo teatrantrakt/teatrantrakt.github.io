@@ -17,7 +17,11 @@ title = 'Członkowie Antraktu'
 
 **kierownik, kierownik produkcji, scenopisarz, reżyser** - założyciel Teatru Studenckiego UMK “Antrakt”, absolwent archeologii i doktorant w Academia Atrium Humanorum. W Antrakcie współtworzył scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując oba ww. spektakle. Kieruje produkcją i organizacją wszystkich inicjatyw Antraktu. Ex-ultras Wisły Płock. Jest zadeklarowanym górzarzem. 
 
-### Palina Kuzemchyk
+<div style="text-align: center;">
+    <h3>Palina Kuzemchyk</h3>
+  <img src="/images/actors/palina.webp" width="429" height="500" alt="Palina Kuzemchyk" style="max-width: 100%; height: auto;">
+</div>
+
 **reżyserka, prowadząca warsztaty artykulacji, oddechu i emisji głosu** - w Antrakcie od 2023 r. Pomysłodawczyni realizacji i reżyserka czarnej komedii “Cyjanek potasu”. Była studentka Państwowej Akademii Sztuki w Mińsku (Białoruś), na kierunku reżyseria teatru dramatycznego; absolwentka Mińskiej Szkoły Sztuki Dramatycznej Olega Kotsa; aktorka Teatru na Nemidze przy MSSD (Białoruś); absolwentka kulturoznawstwa na UMK. I pamiętajcie: Tempo/Rytm!
 
 <div style="text-align: center;">
@@ -97,7 +101,11 @@ title = 'Członkowie Antraktu'
 
 **aktor** - w Antrakcie od 2025 r., absolwent Państwowego Policealnego Studium Musicalowego im. D. Baduszkowej w Gdyni. Wcześniej występował m.in w grupie Podniebni. Gdy się urodził, nie miał imienia. Rodzice powiedzieli: “Nie masz, to masz” i tak mu zostało. 
 
-### Natalia Marchelak
+<div style="text-align: center;">
+    <h3>Natalia Marchelak</h3>
+  <img src="/images/actors/nataliaM.webp" width="429" height="500" alt="Natalia Marchelak" style="max-width: 100%; height: auto;">
+</div>
+
 **kierownik techniczna** - w Antrakcie od 2023 r., studentka kognitywistyki. Odpowiada za reżyserię świateł wszystkich spektakli Antraktu. Swoje wcześniejsze doświadczenia teatralne wiąże z działalnością w Scenie Młodych Studio P. Wielbicielka ciepła żarówy i trzasku winyla. Należy do gangu świeżaków i współtworzy kolektyw artystów spożywczych “Włoszczyzna”.
 
 <div style="text-align: center;">
@@ -107,7 +115,11 @@ title = 'Członkowie Antraktu'
 
 **producent** - w Antrakcie od 2024 r., studentka filologii klasycznej. Jest współproducentką aktualnie granych spektakli, a także pełni funkcję inspicjentki. Demaskatorka zakulisowych kłamstw głównych bohaterów. Zna tekst lepiej niż większość aktorów, ale się tym nie chwali. 
 
-### Jakub Kaliski
+<div style="text-align: center;">
+    <h3>Jakub Kaliski</h3>
+  <img src="/images/actors/kubaK.webp" width="429" height="500" alt="Jakub Kaliski" style="max-width: 100%; height: auto;">
+</div>
+
 **techniczny** - w Antrakcie od 2022 r., student informatyki oraz politologii. Podczas spektakli Antraktu odpowiada za obsługę techniczną i multimedialną. Współtworzy “Chłopy Podcast” na Spotify oraz prowadzi studio tatuażu “U Dziada Dziary”. Gwiazda TVN. Dostał zaproszenie do Kuby Wojewódzkiego ale nie poszedł. Podobno nie pochodzi z Kalisza.
 
 ## Sekcja Taneczna Antraktu:
@@ -134,10 +146,18 @@ title = 'Członkowie Antraktu'
 
 ## Artyści współpracujący: 
 
-### Tomek Misiak
+<div style="text-align: center;">
+    <h3>Tomasz Misiak</h3>
+  <img src="/images/actors/tomaszM.webp" width="429" height="500" alt="Tomasz Misiak" style="max-width: 100%; height: auto;">
+</div>
+
 **muzyk** - Współpracuje z Antraktem od 2023 r., student informatyki. Główny twórca soundtracku do “Legendy o Karmazynie”. Perkusista, gitarzysta i producent w zespole Etterklang i współtwórca projektu Kokon. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.  
 
-### Filip Figiel
+<div style="text-align: center;">
+    <h3>Filip Figiel</h3>
+  <img src="/images/actors/filip.webp" width="429" height="500" alt="Filip Figiel" style="max-width: 100%; height: auto;">
+</div>
+
 **muzyk** - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. 
 
 ### Dawniej z Antraktem współpracowali: 
