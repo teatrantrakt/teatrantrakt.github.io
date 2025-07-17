@@ -5,9 +5,12 @@ title = 'Nasze Spektakle'
 
 <div style="text-align: center;">
     <h2>Tajemna Historia</h2>
+    <figure>
     <img src="/images/tajemna.webp" width="429" height="500" alt="Tajemna Historia" style="max-width: 100%; height: auto;">
+        <figcaption>Grafika: Aleksandra Mazur</figcaption>
+</figure>
 </div>
-*Grafika: Aleksandra Mazur
+
 
 > Zdradliwie leżące kamienie. Ciało ze skręconym karkiem na dnie wąwozu. Ciągnące się wzdłuż zbocza błotniste ślady obcasów. Po prostu wypadek w czasie pieszej wycieczki. I mogłoby się tak skończyć, gdyby nie…
 
@@ -50,9 +53,11 @@ Grupa studentów filologii klasycznej zanurza się w świecie spirytyzmu, co jed
 
 <div style="text-align: center;">
     <h2>Legenda o Karmazynie</h2>
+    <figure>
     <img src="/images/karmazyna.webp" width="429" height="500" alt="Legenda o Karmazynie" style="max-width: 100%; height: auto;">
+        <figcaption>Grafika: Anna Madziak</figcaption>
+    </figure>
 </div>
-*Grafika: Anna Madziak
 
 > Strzały – krzyk – ciemność. To wszystko, co pamięta Dziewczyna, gdy budzi się w nieznanym jej miejscu. Enigmatyczny świat, w którym się znalazła, łączy w sobie elementy baśni z mrokiem horroru. Bohaterowie desperacko poszukują ucieczki z krainy pozbawionej słońca, gdzie prześladowani są przez cienie swojej przeszłości. Jednak bieg wydarzeń jest nieodwracalny… 
 
@@ -90,11 +95,14 @@ Spektakl “Legenda o Karmazynie” to opowieść o traumach, które czają się
  - Psychiatra 1 – Maria Podolecka
  - współprodukcja – Agata Kobus 
 
+
 <div style="text-align: center;">
     <h2>Cyjanek Potasu</h2>
+    <figure>
     <img src="/images/cyjanek.webp" width="429" height="500" alt="Cyjanek Potasu" style="max-width: 100%; height: auto;">
+        <figcaption>Grafika: Aleksandra Mazur</figcaption>
+    </figure>
 </div>
-*Grafika: Aleksandra Mazur
 
 Drogi przemiłej ciotki, ukochanej kuzynki i uroczego siostrzeńca przecinają się w dziwnym domu w małym hiszpańskim miasteczku, w noc poprzedzającą Dzień Wszystkich Świętych. Aspirujący lekarz Enrique wraca do rodzinnego domu wraz z narzeczoną i już od progu zostaje wplątany w sieć intryg. W powietrzu unosi się zapach kawy i zbliżającej się burzy… Na co gotowa jest cała hiszpańska rodzina, gdy czeka na spadek? Dlaczego kobiety z Badajozu są zastraszane przez jakąś istotę? Wszystko będzie tak szokujące, że aż śmieszne! 
 
@@ -122,12 +130,13 @@ Drogi przemiłej ciotki, ukochanej kuzynki i uroczego siostrzeńca przecinają s
 
 **Oświetlenie:** Natalia Marchelak, Jakub Kaliski 
 
-
 <div style="text-align: center;">
     <h2>Nie Opuszczaj Mnie</h2>
+    <figure>
     <img src="/images/opuszczaj.webp" width="429" height="500" alt="Nie Opuszczaj Mnie" style="max-width: 100%; height: auto;">
+    <figcaption>Grafika: Marcelina Barczewska</figcaption>
+    </figure>
 </div>
-*Grafika: Marcelina Barczewska*
 
 Hailsham od dziesięcioleci jest miejscem wychowania wyjątkowej młodzieży. Dzieci żyjące w tej szkole z internatem od najmłodszych lat uczą się tu nie tylko podstawowej wiedzy, lecz także zasad życia w społeczeństwie i realiów otaczającej ich rzeczywistości. Rzeczywistości im nie znanej, bo nie mogą opuszczać terenu placówki. Zrobią to po osiągnięciu pełnoletności. Nigdy nie zostaną jednak prawnikami, księgowymi, aktorami czy sportowcami. Czekaja ich tylko bycie opiekunem i dawcą. Spektakl “Nie Opuszczaj Mnie” to opowieść o losach ludzi istniejących dla drugiego człowieka. Dosłownie.
 
