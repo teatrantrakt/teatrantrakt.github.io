@@ -24,12 +24,16 @@ W nowym roku akademickim grupa powróciła do swojego debiutanckiego tytułu, pr
 
 ### 2025
 
-Grupa przystąpiła do przygotowań kolejnej, planowanej na późną wiosnę premiery: spektaklu tanecznego zrealizowanego na podstawie książki "Nie opuszczaj mnie" Kazuo Ishiguro w reżyserii Natalii Browarczyk. Realizacja sztuki finansowana będzie z funduszy Stypendium Miasta Torunia w dziedzinie kultury (projekt: „Toruń jako miejsce rozwoju akademickiego teatru tańca”). 
+Grupa przystąpiła do przygotowań kolejnej, planowanej na późną wiosnę premiery: spektaklu tanecznego zrealizowanego na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro w reżyserii Natalii Browarczyk. Realizacja sztuki finansowana była z funduszy Stypendium Miasta Torunia w dziedzinie kultury (projekt: „Toruń jako miejsce rozwoju akademickiego teatru tańca”). Po raz pierwszy premiera zorganizowana została wraz z wydarzeniami towarzyszącymi: wernisażem prac stworzonych w ramach konkursu na plakat promujący spektakl, warsztaty teatralne poprowadzone przez Agatę Kobus, a także afterparty. "Nie Opuszczaj Mnie" zadebiutowało na scenie ACKiS "Od Nowa" podwójnym wystawieniem 15 czerwca.
+Poza realizacją nowej premiery, Antrakt w 2025 r. zaprezentował wszystkie swoje spektakle na scenach poza Toruniem. Na początku kwietnia po raz pierwszy gościliśmy na Festiwalu Teatrów Amatorskich "Szpulka" w Sokołowie Podlaskim, gdzie zaprezentowaliśmy "Legendę o Karmazynie". 25 kwietnia w Chełmżyńskim Domu Kultury wystawiliśmy "Cyjanek Potasu", a całe wydarzenie odbyło się w ramach inauguracji współpracy między ChDK i Miastem Chełmża, a Wydziałem Humanistycznym UMK. W drugiej połowie maja po raz drugi gościliśmy na Studenckiej Wiośnie Teatralnej w lubelskim ACKiS "Chatka Żaka". Tym razem zaprezentowaliśmy "Tajemną Historię", która została ciepło przyjęta przez widzów, co zaowocowało otrzymaniem drugi rok z rzędu festiwalowej Nagrody Publiczności.
+
 
 ## Nagrody
 Teatr Antrakt na rozdaniu nagród XII Ogólnopolskiego Festiwalu Studencka Wiosna Teatralna 2024 
 
 W 2024 roku podczas Studenckiej Wiosny Teatralnej organizowanej przez Akademickie Centrum Kultury w Lublinie, Teatr zdobył nagrodę publiczności oraz Grand Prix festiwalu za spektakl "Legenda o Karmazynie". 
+
+W 2025 roku po raz kolejny otrzymaliśmy Nagrodę Publiczności podczas Studenckiej Wiosny Teatralnej. Nagrodzonym spektaklem była "Tajemna Historia. 
 
 ## Zrealizowane premiery
 
@@ -38,6 +42,8 @@ Tajemna Historia (reż. Danka Greding, Aleksandra Matuszewska, Mikołaj Dobek) -
 Legenda o Karmazynie (reż. Danka Greding, Mikołaj Dobek) - data premiery: 27.03.2023 
 
 Cyjanek Potasu (reż. Palina Kuzemchyk) - data premiery: 7.04.2024 
+
+Nie Opuszczaj Mnie (reż. Natalia Browarczyk) - data premiery: 15.06.2025
 
 ## Inna Działalność
 
