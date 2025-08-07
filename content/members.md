@@ -8,14 +8,14 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/danka.webp" width="429" height="500" alt="Danka Greding" style="max-width: 100%; height: auto;">
 </div>
 
-**kierowniczka, reżyserka, scenopisarka, aktorka** - założycielka Teatru Studenckiego UMK “Antrakt”, studentka kulturoznawstwa. W Antrakcie współtworzyła scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując i występując w obu ww. spektaklach. Przed Antraktem występowała w Teatrze R. Bezimienni przy toruńskim MDK. W 2022 roku otrzymała Nagrodę Rektora za działalność organizacyjną na rzecz społeczności akademickiej, a w 2024 r. zrealizowała projekt “Kultura studencka w działaniu” w ramach Stypendium Miasta Torunia w dziedzinie kultury. Norweski to jej drugi język: człowiek może wyjechać z Norwegii, ale Norwegia z człowieka nigdy. Jest zadeklarowanym morzarzem. 
+**kierowniczka, reżyserka, scenopisarka, aktorka** - założycielka Teatru Studenckiego UMK “Antrakt”, studentka kulturoznawstwa. W Antrakcie współtworzyła scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując i występując w obu ww. spektaklach. Przed Antraktem występowała w Teatrze R. Bezimienni przy toruńskim MDK. W 2022 roku otrzymała Nagrodę Rektora za działalność organizacyjną na rzecz społeczności akademickiej, a w 2024 r. zrealizowała projekt “Kultura studencka w działaniu” w ramach Stypendium Miasta Torunia w dziedzinie kultury. Norweski to jej drugi język: człowiek może wyjechać z Norwegii, ale Norwegia z człowieka nigdy. Jest zadeklarowanym morzarzem.
 
 <div style="text-align: center;">
     <h3>Mikołaj Dobek</h3>
   <img src="/images/actors/mikolaj.webp" width="429" height="500" alt="Mikołaj Dobek" style="max-width: 100%; height: auto;">
 </div>
 
-**kierownik, kierownik produkcji, scenopisarz, reżyser** - założyciel Teatru Studenckiego UMK “Antrakt”, absolwent archeologii i doktorant w Academia Atrium Humanorum. W Antrakcie współtworzył scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując oba ww. spektakle. Kieruje produkcją i organizacją wszystkich inicjatyw Antraktu. Ex-ultras Wisły Płock. Jest zadeklarowanym górzarzem. 
+**kierownik, kierownik produkcji, scenopisarz, reżyser** - założyciel Teatru Studenckiego UMK “Antrakt”, absolwent archeologii i doktorant w Academia Atrium Humanorum. W Antrakcie współtworzył scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując oba ww. spektakle. Kieruje produkcją i organizacją wszystkich inicjatyw Antraktu. Ex-ultras Wisły Płock. Jest zadeklarowanym górzarzem.
 
 <div style="text-align: center;">
     <h3>Palina Kuzemchyk</h3>
@@ -29,14 +29,14 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/natalia.webp" width="429" height="500" alt="Natalia Browarczyk" style="max-width: 100%; height: auto;">
 </div>
 
-**choreografka, reżyserka, aktorka, fotografka** – w Antrakcie od 2022 r., studentka kulturoznawstwa, absolwentka Ogólnokształcącej Szkoły Baletowej im. Janiny Jarzynówny-Sobczak w Gdańsku w 2021 roku. Nauczycielka baletu i zawodowa tancerka. Autorka choreografii do wszystkich spektakli naszego Teatru. Zagrała w spektaklu “Legenda o Karmazynie”. W 2025 r. otrzymała Stypendium Miasta Torunia w dziedzinie kultury, w ramach którego zrealizuje w Antrakcie spektakl taneczny na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. Wszyscy się jej boją, ale to lubią. W przeciwieństwie do Boga, Natalia daje aktorom więcej, niż potrafią udźwignąć. 
+**choreografka, reżyserka, aktorka, fotografka** – w Antrakcie od 2022 r., studentka kulturoznawstwa, absolwentka Ogólnokształcącej Szkoły Baletowej im. Janiny Jarzynówny-Sobczak w Gdańsku w 2021 roku. Nauczycielka baletu i zawodowa tancerka. Autorka choreografii do wszystkich spektakli naszego Teatru. Zagrała w spektaklu “Legenda o Karmazynie”. W 2025 r. otrzymała Stypendium Miasta Torunia w dziedzinie kultury, w ramach którego zrealizuje w Antrakcie spektakl taneczny na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. Wszyscy się jej boją, ale to lubią. W przeciwieństwie do Boga, Natalia daje aktorom więcej, niż potrafią udźwignąć.
 
 <div style="text-align: center;">
     <h3>Jakub Michalak</h3>
   <img src="/images/actors/kubaM.webp" width="429" height="500" alt="Jakub Michalak" style="max-width: 100%; height: auto;">
 </div>
 
-**aktor** - W Antrakcie od 2022 r., student psychologii. Członek Zarządu ds. Kultury Studenckiej w Samorządzie Studenckim UMK.  W czasach licealnych aktywnie uczestniczył w życiu kulturalnym w łowickiej pijarskiej Szkole Królowej Pokoju. Śpiewa w zespole Melochorda. Inicjator Ogólnopolskiego Przeglądu Kultury Studenckiej (potocznie zwany MichalakFestem). Gdy jest zdumiony, zaskoczony lub zmartwiony wypowiada słowa: “O rety”. 
+**aktor** - W Antrakcie od 2022 r., student psychologii. Członek Zarządu ds. Kultury Studenckiej w Samorządzie Studenckim UMK.  W czasach licealnych aktywnie uczestniczył w życiu kulturalnym w łowickiej pijarskiej Szkole Królowej Pokoju. Śpiewa w zespole Melochorda. Inicjator Ogólnopolskiego Przeglądu Kultury Studenckiej (potocznie zwany MichalakFestem). Gdy jest zdumiony, zaskoczony lub zmartwiony wypowiada słowa: “O rety”.
 
 <div style="text-align: center;">
     <h3>Jakub Stępień</h3>
@@ -50,7 +50,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/norbert.webp" width="429" height="500" alt="Norbert Pytel" style="max-width: 100%; height: auto;">
 </div>
 
-**aktor, produkcja filmowa** - W Antrakcie od dnia jego powstania, student dziennikarstwa, niedoszły historyk. Poza grą w spektaklach odpowiada za postprodukcje promocyjnych materiałów wideo. Działa w Radio Sfera UMK. Zadzwonił kiedyś na policję, gdy zobaczył jak ktoś kradnie kinder czekoladki w Lidlu. Zodiakalny papież, powszechnie uznawany za dowcipnego. 
+**aktor, produkcja filmowa** - W Antrakcie od dnia jego powstania, student dziennikarstwa, niedoszły historyk. Poza grą w spektaklach odpowiada za postprodukcje promocyjnych materiałów wideo. Działa w Radio Sfera UMK. Zadzwonił kiedyś na policję, gdy zobaczył jak ktoś kradnie kinder czekoladki w Lidlu. Zodiakalny papież, powszechnie uznawany za dowcipnego.
 
 <div style="text-align: center;">
     <h3>Piotr Pawłowski</h3>
@@ -78,14 +78,14 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/iga.webp" width="429" height="500" alt="Iga Maciejewska" style="max-width: 100%; height: auto;">
 </div>
 
-**aktorka, obsługa Instagrama i TikToka** - W Antrakcie od 2022 r., studentka pedagogiki wczesnoszkolnej. Koordynatorka teatralnych social mediów. Debiutowała już w przedszkolu jako Małgosia w “Jasiu i Małgosi”. Przed dołączeniem do Antraktu uczestniczyła w Toruniu Muzycznym, a przede wszystkim występowała w Teatrze Scena Młodych Studio P przy toruńskim MDK. Zodiakalna gwiazda. Kocha dzieci i grupę muzyczną “Modelki”. Aspiruje do bycia chinką, i nieźle jej idzie. 
+**aktorka, obsługa Instagrama i TikToka** - W Antrakcie od 2022 r., studentka pedagogiki wczesnoszkolnej. Koordynatorka teatralnych social mediów. Debiutowała już w przedszkolu jako Małgosia w “Jasiu i Małgosi”. Przed dołączeniem do Antraktu uczestniczyła w Toruniu Muzycznym, a przede wszystkim występowała w Teatrze Scena Młodych Studio P przy toruńskim MDK. Zodiakalna gwiazda. Kocha dzieci i grupę muzyczną “Modelki”. Aspiruje do bycia chinką, i nieźle jej idzie.
 
 <div style="text-align: center;">
     <h3>Patrycja Łajewska</h3>
   <img src="/images/actors/patrycja.jpg" alt="Patrycja Łajewska" style="max-width: 100%; height: auto;">
 </div>
 
-**aktorka** - W Antrakcie od 2022 r., studentka prawa. Okazjonalnie stand-uperka. Wiecie jak się nazywa związek grafów? § 
+**aktorka** - W Antrakcie od 2022 r., studentka prawa. Okazjonalnie stand-uperka. Wiecie jak się nazywa związek grafów? §
 
 <div style="text-align: center;">
     <h3>Łukasz Gołębiewski</h3>
@@ -99,7 +99,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/tomasz.webp" width="429" height="500" alt="Tomasz Dziak" style="max-width: 100%; height: auto;">
 </div>
 
-**aktor** - w Antrakcie od 2025 r., absolwent Państwowego Policealnego Studium Musicalowego im. D. Baduszkowej w Gdyni. Wcześniej występował m.in w grupie Podniebni. Gdy się urodził, nie miał imienia. Rodzice powiedzieli: “Nie masz, to masz” i tak mu zostało. 
+**aktor** - w Antrakcie od 2025 r., absolwent Państwowego Policealnego Studium Musicalowego im. D. Baduszkowej w Gdyni. Wcześniej występował m.in w grupie Podniebni. Gdy się urodził, nie miał imienia. Rodzice powiedzieli: “Nie masz, to masz” i tak mu zostało.
 
 <div style="text-align: center;">
     <h3>Natalia Marchelak</h3>
@@ -113,7 +113,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/asia.webp" width="429" height="500" alt="Joanna Kobielska" style="max-width: 100%; height: auto;">
 </div>
 
-**producent** - w Antrakcie od 2024 r., studentka filologii klasycznej. Jest współproducentką aktualnie granych spektakli, a także pełni funkcję inspicjentki. Demaskatorka zakulisowych kłamstw głównych bohaterów. Zna tekst lepiej niż większość aktorów, ale się tym nie chwali. 
+**producent** - w Antrakcie od 2024 r., studentka filologii klasycznej. Jest współproducentką aktualnie granych spektakli, a także pełni funkcję inspicjentki. Demaskatorka zakulisowych kłamstw głównych bohaterów. Zna tekst lepiej niż większość aktorów, ale się tym nie chwali.
 
 <div style="text-align: center;">
     <h3>Jakub Kaliski</h3>
@@ -129,36 +129,44 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/ania.webp" width="429" height="500" alt="Anna Bochenek" style="max-width: 100%; height: auto;">
 </div>
 
+**aktorka** - w Antrakcie od 2025 r., studentka kognitywistyki. Przed Antraktem uczestniczyła w wielu warsztatach aktorskich, zarówno na swoim rodzinnym Śląsku, jak i poza granicami Polski. Występując z monodramem na Michalakfe... tzn. Ogólnopolskim Przeglądzie Kultury Studenckiej dała się poznać antrakciakom, dzięki czemu miała dobry PR na castingu do "Nie Opuszczaj Mnie".
+
 <div style="text-align: center;">
     <h3>Anna Zuska</h3>
   <img src="/images/actors/aniaZ.webp" width="429" height="500" alt="Anna Zuska" style="max-width: 100%; height: auto;">
 </div>
+
+**aktorka, produkcja filmowa** - w Antrakcie od 2025 r., studentka filologii romańskiej. Ambitna pasjonatka produkcji filmowej, czego efekty można zobaczyć w "Tajemnej Historii" i "Nie Opuszczaj Mnie". Swoją karierę sceniczną rozpoczynała jako tancerka w grupie specjalizującej się w hip-hopie, ale jeszcze nigdy nie rapowała na teatralnych imprezach...Wierzymy, że kiedyś to nastąpi. Po francusku.
 
 <div style="text-align: center;">
     <h3>Marcelina Stankiewicz</h3>
   <img src="/images/actors/marcelina.webp" width="429" height="500" alt="Marcelina Stankiewicz" style="max-width: 100%; height: auto;">
 </div>
 
+**aktorka** - w Antrakcie od 2025 r., studentka...Tak często zmienia kierunki, że sama nie wie. Ale bardzo ładnie śpiewa, i zdobywa nagrody. I tańczy od wielu lat, specjalizując się w tańcu towarzyskim. Rodowita i dumna chełmżanka. Pasjonatka bodybuldingu, workoutów i fitnessu.
+
 <div style="text-align: center;">
     <h3>Jakub Bąk</h3>
   <img src="/images/actors/kuba.webp" width="429" height="500" alt="Jakub Bąk" style="max-width: 100%; height: auto;">
 </div>
 
-## Artyści współpracujący: 
+**aktor** - w Antrakcie od 2025 r., student psychologii. Kolejny fotograf w antraktowym gronie. I kolejny, bo już czwarty Jakub. Zaraził autora strony zamiłowaniem do starych, kieszonkowych aparatów.
+
+## Artyści współpracujący:
 
 <div style="text-align: center;">
     <h3>Tomasz Misiak</h3>
   <img src="/images/actors/tomaszM.webp" width="429" height="500" alt="Tomasz Misiak" style="max-width: 100%; height: auto;">
 </div>
 
-**muzyk** - Współpracuje z Antraktem od 2023 r., student informatyki. Główny twórca soundtracku do “Legendy o Karmazynie”. Perkusista, gitarzysta i producent w zespole Etterklang i współtwórca projektu Kokon. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.  
+**muzyk** - Współpracuje z Antraktem od 2023 r., student informatyki. Główny twórca soundtracku do “Legendy o Karmazynie”. Perkusista, gitarzysta i producent w zespole Etterklang i współtwórca projektu Kokon. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.
 
 <div style="text-align: center;">
     <h3>Filip Figiel</h3>
   <img src="/images/actors/filip.webp" width="429" height="500" alt="Filip Figiel" style="max-width: 100%; height: auto;">
 </div>
 
-**muzyk** - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. 
+**muzyk** - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.
 
-### Dawniej z Antraktem współpracowali: 
-Maria Podolecka, Aleksandra Matuszewska, Natalia Cywińska, Agata Kobus, Wiktor Szymański, Jakub Zych, Jan Englert, Bartosz Myśliński, Eryk Trzciński. 
+### Dawniej z Antraktem współpracowali:
+Maria Podolecka, Aleksandra Matuszewska, Natalia Cywińska, Agata Kobus, Wiktor Szymański, Jakub Zych, Jan Englert, Bartosz Myśliński, Eryk Trzciński.
