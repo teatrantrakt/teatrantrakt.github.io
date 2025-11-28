@@ -18,13 +18,6 @@ title = 'Członkowie Antraktu'
 **kierownik, kierownik produkcji, scenopisarz, reżyser** - założyciel Teatru Studenckiego UMK “Antrakt”, absolwent archeologii i doktorant w Academia Atrium Humanorum. W Antrakcie współtworzył scenariusze “Tajemnej Historii” i “Legendy o Karmazynie”, reżyserując oba ww. spektakle. Kieruje produkcją i organizacją wszystkich inicjatyw Antraktu. Ex-ultras Wisły Płock. Jest zadeklarowanym górzarzem.
 
 <div style="text-align: center;">
-    <h3>Palina Kuzemchyk</h3>
-  <img src="/images/actors/palina.webp" width="429" height="500" alt="Palina Kuzemchyk" style="max-width: 100%; height: auto;">
-</div>
-
-**reżyserka, prowadząca warsztaty artykulacji, oddechu i emisji głosu** - w Antrakcie od 2023 r. Pomysłodawczyni realizacji i reżyserka czarnej komedii “Cyjanek potasu”. Była studentka Państwowej Akademii Sztuki w Mińsku (Białoruś), na kierunku reżyseria teatru dramatycznego; absolwentka Mińskiej Szkoły Sztuki Dramatycznej Olega Kotsa; aktorka Teatru na Nemidze przy MSSD (Białoruś); absolwentka kulturoznawstwa na UMK. I pamiętajcie: Tempo/Rytm!
-
-<div style="text-align: center;">
     <h3>Natalia Browarczyk</h3>
   <img src="/images/actors/natalia.webp" width="429" height="500" alt="Natalia Browarczyk" style="max-width: 100%; height: auto;">
 </div>
@@ -169,4 +162,4 @@ title = 'Członkowie Antraktu'
 **muzyk** - Współpracuje z Antraktem od 2023 r. Współtwórca utworów promujących spektakle Antraktu. Basista w zespołach Nelcor i Etterklang, producent. Aktualnie pracuje nad soundtrackiem do spektaklu na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro.
 
 ### Dawniej z Antraktem współpracowali:
-Maria Podolecka, Aleksandra Matuszewska, Natalia Cywińska, Agata Kobus, Wiktor Szymański, Jakub Zych, Jan Englert, Bartosz Myśliński, Eryk Trzciński.
+Maria Podolecka, Aleksandra Matuszewska, Natalia Cywińska, Palina Kuzemchyk, Agata Kobus, Wiktor Szymański, Jakub Zych, Jan Englert, Bartosz Myśliński, Eryk Trzciński.
