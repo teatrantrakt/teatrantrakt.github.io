@@ -22,7 +22,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/natalia.webp" width="429" height="500" alt="Natalia Browarczyk" style="max-width: 100%; height: auto;">
 </div>
 
-**choreografka, reżyserka, aktorka, fotografka** – w Antrakcie od 2022 r., studentka kulturoznawstwa, absolwentka Ogólnokształcącej Szkoły Baletowej im. Janiny Jarzynówny-Sobczak w Gdańsku w 2021 roku. Nauczycielka baletu i zawodowa tancerka. Autorka choreografii do wszystkich spektakli naszego Teatru. Zagrała w spektaklu “Legenda o Karmazynie”. W 2025 r. otrzymała Stypendium Miasta Torunia w dziedzinie kultury, w ramach którego zrealizuje w Antrakcie spektakl taneczny na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. Wszyscy się jej boją, ale to lubią. W przeciwieństwie do Boga, Natalia daje aktorom więcej, niż potrafią udźwignąć.
+**choreografka, reżyserka, aktorka, fotografka** – w Antrakcie od 2022 r., studentka kulturoznawstwa, absolwentka Ogólnokształcącej Szkoły Baletowej im. Janiny Jarzynówny-Sobczak w Gdańsku w 2021 roku. Nauczycielka baletu i zawodowa tancerka. Autorka choreografii do wszystkich spektakli naszego Teatru. Zagrała w spektaklu “Legenda o Karmazynie”. W 2025 r. otrzymała Stypendium Miasta Torunia w dziedzinie kultury, w ramach którego zrealizowała w Antrakcie spektakl taneczny na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. Wszyscy się jej boją, ale to lubią. W przeciwieństwie do Boga, Natalia daje aktorom więcej, niż potrafią udźwignąć.
 
 <div style="text-align: center;">
     <h3>Jakub Michalak</h3>
@@ -57,11 +57,11 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/aniaP.webp" width="429" height="500" alt="Anna Piórkowska" style="max-width: 100%; height: auto;">
 </div>
 
-**aktorka** - W Antrakcie od 2023 r., studentka kulturoznawstwa i psychologii. Czasem pisze też recenzje teatralne, nieprzychylne. Na szczęście nie nam. Na co dzień karmelarz. Zna mroczną prawdę o Czesławie Miłoszu.
+**aktorka** - W Antrakcie od 2023 r., studentka kulturoznawstwa i psychologii. Czasem pisze też recenzje teatralne, nieprzychylne. Na szczęście nie nam. Na co dzień ~~karmelarz~~ ~~herbaciara~~ windykatorka. Zna mroczną prawdę o Czesławie Miłoszu.
 
 <div style="text-align: center;">
     <h3>Milena Frej</h3>
-  <img src="/images/actors/milena.jpg" width="429" height="500" alt="Milena Frej" style="max-width: 100%; height: auto;">
+  <img src="/images/actors/milena.webp" width="429" height="500" alt="Milena Frej" style="max-width: 100%; height: auto;">
 </div>
 
 **aktorka** - W Antrakcie od 2024 r., studentka prawa. Rozwija się także w piosence aktorskiej i poezji śpiewanej, laureatka ogólnopolskich konkursów i festiwali. Działa również w toruńskim AZS, bieg przełaje. Powszechnie uznawana za zabawną oraz czarującą i super dziewczynę ogólnie (jak wszystkie w Antrakcie). Kocha grille i silent disco.
