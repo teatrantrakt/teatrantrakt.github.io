@@ -85,7 +85,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/lukasz.webp" width="429" height="500" alt="Łukasz Gołębiewski" style="max-width: 100%; height: auto;">
 </div>
 
-**aktor, twórca i administrator portalu internetowego** - W Antrakcie od 2024 r., student architektury informacji. Przed dołączeniem do Antraktu występował w…wszędzie, ale przede wszystkim w Teatrze Tu z Czarnkowa. Równolegle do studiów i działalności w Antrakcie rozwija się wokalnie, śpiewając w chórze UMK, regularnie występując na polskich i zagranicznych scenach. Entuzjasta organicznych związków chemicznych. Przyszły ksiądz Robak. Etatowy prowadzący rozgrzewek.
+**aktor, twórca strony Antraktu** - W Antrakcie od 2024 r., student architektury informacji. Przed dołączeniem do Antraktu występował w…wszędzie, ale przede wszystkim w Teatrze Tu z Czarnkowa. Równolegle do studiów i działalności w Antrakcie rozwija się wokalnie, śpiewając w chórze UMK, regularnie występując na polskich i zagranicznych scenach. Entuzjasta organicznych związków chemicznych. Przyszły ksiądz Robak. Etatowy prowadzący rozgrzewek.
 
 <div style="text-align: center;">
     <h3>Tomasz Dziak</h3>

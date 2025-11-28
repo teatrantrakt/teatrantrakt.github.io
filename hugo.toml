@@ -58,6 +58,11 @@ style = "github-dark"
   icon = "fa-brands fa-square-youtube fa-2x"
   weight = 3
   url = "https://www.youtube.com/@teatrantrakt"
+[[params.social]]
+  name = "Bandcamp"
+  icon = "fa-brands fa-bandcamp fa-2x"
+  weight = 4
+  url = "antraktteatr.bandcamp.com"
 
 # Menu links
 [[menu.main]]
