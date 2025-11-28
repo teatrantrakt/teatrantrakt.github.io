@@ -6,7 +6,7 @@ title = 'Nasze Spektakle'
 <div style="text-align: center;">
     <h2>Tajemna Historia</h2>
     <figure>
-    <img src="/images/plays/tajemna.webp" width="429" height="500" alt="Tajemna Historia" style="max-width: 100%; height: auto;">
+    <img src="/images/plays/tajemna.webp" alt="Tajemna Historia" style="max-width: 100%; height: auto;">
         <figcaption>Grafika: Aleksandra Mazur</figcaption>
 </figure>
 </div>
@@ -54,7 +54,7 @@ Grupa studentów filologii klasycznej zanurza się w świecie spirytyzmu, co jed
 <div style="text-align: center;">
     <h2>Legenda o Karmazynie</h2>
     <figure>
-    <img src="/images/plays/karmazyna.webp" width="429" height="500" alt="Legenda o Karmazynie" style="max-width: 100%; height: auto;">
+    <img src="/images/plays/karmazyna.webp" alt="Legenda o Karmazynie" style="max-width: 100%; height: auto;">
         <figcaption>Grafika: Anna Madziak</figcaption>
     </figure>
 </div>
@@ -99,7 +99,7 @@ Spektakl “Legenda o Karmazynie” to opowieść o traumach, które czają się
 <div style="text-align: center;">
     <h2>Cyjanek Potasu</h2>
     <figure>
-    <img src="/images/plays/cyjanek.webp" width="429" height="500" alt="Cyjanek Potasu" style="max-width: 100%; height: auto;">
+    <img src="/images/plays/cyjanek.webp" alt="Cyjanek Potasu" style="max-width: 100%; height: auto;">
         <figcaption>Grafika: Aleksandra Mazur</figcaption>
     </figure>
 </div>
@@ -133,7 +133,7 @@ Drogi przemiłej ciotki, ukochanej kuzynki i uroczego siostrzeńca przecinają s
 <div style="text-align: center;">
     <h2>Nie Opuszczaj Mnie</h2>
     <figure>
-    <img src="/images/plays/opuszczaj.webp" width="429" height="500" alt="Nie Opuszczaj Mnie" style="max-width: 100%; height: auto;">
+    <img src="/images/plays/opuszczaj.webp" alt="Nie Opuszczaj Mnie" style="max-width: 100%; height: auto;">
     <figcaption>Grafika: Marcelina Barczewska</figcaption>
     </figure>
 </div>
