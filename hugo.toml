@@ -62,7 +62,7 @@ style = "github-dark"
   name = "Bandcamp"
   icon = "fa-brands fa-bandcamp fa-2x"
   weight = 4
-  url = "antraktteatr.bandcamp.com"
+  url = "https://antraktteatr.bandcamp.com/album/nie-opuszczaj-mnie"
 
 # Menu links
 [[menu.main]]
