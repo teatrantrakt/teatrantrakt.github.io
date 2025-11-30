@@ -77,10 +77,10 @@ style = "github-dark"
   name = "Członkowie"
   weight = 3
   url = "members/"
-[[menu.main]]
-  name = "Galeria"
-  weight = 4
-  url = "gallerysite/"
+# [[menu.main]]
+#   name = "Galeria"
+#   weight = 4
+#   url = "gallerysite/"
 
   [markup]
   [markup.goldmark]
