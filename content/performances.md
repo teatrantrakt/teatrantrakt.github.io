@@ -39,7 +39,7 @@ Grupa studentów filologii klasycznej zanurza się w świecie spirytyzmu, co jed
 
 **Oświetlenie:** Natalia Marchelak, Jakub Kaliski 
 
-**Materiały filmowe:** Norbert Pytel, Natalia Browarczyk, Mikołaj Dobek 
+**Materiały filmowe:** Anna Zuska
 
 **Wsparcie koncepcyjne przy produkcji premierowej wersji spektaklu:** Aleksandra Matuszewska 
 
