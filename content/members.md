@@ -75,7 +75,7 @@ title = 'Członkowie Antraktu'
 
 <div style="text-align: center;">
     <h3>Patrycja Łajewska</h3>
-  <img src="/images/actors/patrycja.jpg" alt="Patrycja Łajewska" style="max-width: 100%; height: auto;">
+  <img src="/images/actors/patrycja.webp" alt="Patrycja Łajewska" style="max-width: 100%; height: auto;">
 </div>
 
 **aktorka** - W Antrakcie od 2022 r., studentka prawa. Okazjonalnie stand-uperka. Wiecie jak się nazywa związek grafów? §
