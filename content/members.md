@@ -22,21 +22,22 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/natalia.webp" alt="Natalia Browarczyk" style="max-width: 100%; height: auto;">
 </div>
 
-**choreografka, reżyserka, aktorka, fotografka** – w Antrakcie od 2022 r., studentka kulturoznawstwa, absolwentka Ogólnokształcącej Szkoły Baletowej im. Janiny Jarzynówny-Sobczak w Gdańsku w 2021 roku. Nauczycielka baletu i zawodowa tancerka. Autorka choreografii do wszystkich spektakli naszego Teatru. Zagrała w spektaklu “Legenda o Karmazynie”. W 2025 r. otrzymała Stypendium Miasta Torunia w dziedzinie kultury, w ramach którego zrealizowała w Antrakcie spektakl taneczny na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. Wszyscy się jej boją, ale to lubią. W przeciwieństwie do Boga, Natalia daje aktorom więcej, niż potrafią udźwignąć.
+**choreografka, reżyserka, aktorka, fotografka** – w Antrakcie od 2022 r., absolwentka kulturoznawstwa, studentka pedagogiki wczesnoszkolnej, absolwentka Ogólnokształcącej Szkoły Baletowej im. Janiny Jarzynówny-Sobczak w Gdańsku w 2021 roku. Nauczycielka baletu i zawodowa tancerka. Autorka choreografii do wszystkich spektakli naszego Teatru. Zagrała w spektaklu “Legenda o Karmazynie”. W 2025 r. otrzymała Stypendium Miasta Torunia w dziedzinie kultury, w ramach którego zrealizowała w Antrakcie spektakl taneczny na podstawie książki “Nie opuszczaj mnie” Kazuo Ishiguro. Wszyscy się jej boją, ale to lubią. W przeciwieństwie do Boga, Natalia daje aktorom więcej, niż potrafią udźwignąć.
 
 <div style="text-align: center;">
     <h3>Jakub Michalak</h3>
   <img src="/images/actors/kubaM.webp" alt="Jakub Michalak" style="max-width: 100%; height: auto;">
 </div>
 
-**aktor** - W Antrakcie od 2022 r., student psychologii. Członek Zarządu ds. Kultury Studenckiej w Samorządzie Studenckim UMK.  W czasach licealnych aktywnie uczestniczył w życiu kulturalnym w łowickiej pijarskiej Szkole Królowej Pokoju. Śpiewa w zespole Melochorda. Inicjator Ogólnopolskiego Przeglądu Kultury Studenckiej (potocznie zwany MichalakFestem). Gdy jest zdumiony, zaskoczony lub zmartwiony wypowiada słowa: “O rety”.
+**aktor** - W Antrakcie od 2022 r., student psychologii. Członek Zarządu ds. Kultury Studenckiej w Samorządzie Studenckim UMK. W czasach gimnazjum i liceum aktywnie uczestniczył w życiu kulturalnym w łowickiej pijarskiej Szkole Królowej Pokoju. Przez 8 lat śpiewał i tańczył w Zespole Pieśni i Tańca „Koderki”. 
+Inicjator Ogólnopolskiego Przeglądu Kultury Studenckiej (potocznie zwany MichalakFestem). Gdy jest zdumiony, zaskoczony lub zmartwiony wypowiada słowa: “O rety”.
 
 <div style="text-align: center;">
     <h3>Jakub Stępień</h3>
   <img src="/images/actors/kubaS.webp" alt="Jakub Stępień" style="max-width: 100%; height: auto;">
 </div>
 
-**aktor** - W Antrakcie od 2024 r. Wcześniej występował w grupie Scena Młodych Studio P przy toruńskim MDK. Enrique, Henry, Wilk - grane przez niego postacie zdają się wiele sugerować, ale jest całkiem normalny. W wolnych chwilach jest samochodem. Powszechnie uznawany za nieśmiesznego. Chciałby umrzeć z miłości. Współtwórca powyższych opisów.
+**aktor** - W Antrakcie od 2024 r., student czegoś tam po angielsku. Wcześniej występował w grupie Scena Młodych Studio P przy toruńskim MDK. Enrique, Henry, Wilk - grane przez niego postacie zdają się wiele sugerować, ale jest całkiem normalny. W wolnych chwilach jest samochodem. Powszechnie uznawany za nieśmiesznego. Chciałby umrzeć z miłości. Współtwórca powyższych opisów.
 
 <div style="text-align: center;">
     <h3>Norbert Pytel</h3>
@@ -71,7 +72,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/iga.webp" alt="Iga Maciejewska" style="max-width: 100%; height: auto;">
 </div>
 
-**aktorka, obsługa Instagrama i TikToka** - W Antrakcie od 2022 r., studentka pedagogiki wczesnoszkolnej. Koordynatorka teatralnych social mediów. Debiutowała już w przedszkolu jako Małgosia w “Jasiu i Małgosi”. Przed dołączeniem do Antraktu uczestniczyła w Toruniu Muzycznym, a przede wszystkim występowała w Teatrze Scena Młodych Studio P przy toruńskim MDK. Zodiakalna gwiazda. Kocha dzieci i grupę muzyczną “Modelki”. Aspiruje do bycia chinką, i nieźle jej idzie.
+**aktorka, obsługa Instagrama i TikToka** - W Antrakcie od 2022 r., Absolwentka pedagogiki wczesnoszkolnej, studentka socjologii. Koordynatorka teatralnych social mediów. Debiutowała już w przedszkolu jako Małgosia w “Jasiu i Małgosi”. Przed dołączeniem do Antraktu uczestniczyła w Toruniu Muzycznym, a przede wszystkim występowała w Teatrze Scena Młodych Studio P przy toruńskim MDK. Zodiakalna gwiazda. Kocha dzieci i grupę muzyczną “Modelki”. Aspiruje do bycia chinką, i nieźle jej idzie.
 
 <div style="text-align: center;">
     <h3>Patrycja Łajewska</h3>
@@ -106,7 +107,7 @@ title = 'Członkowie Antraktu'
   <img src="/images/actors/asia.webp" alt="Joanna Kobielska" style="max-width: 100%; height: auto;">
 </div>
 
-**producent** - w Antrakcie od 2024 r., studentka filologii klasycznej. Jest współproducentką aktualnie granych spektakli, a także pełni funkcję inspicjentki. Demaskatorka zakulisowych kłamstw głównych bohaterów. Zna tekst lepiej niż większość aktorów, ale się tym nie chwali.
+**producent** - w Antrakcie od 2024 r., Studentka filologii klasycznej. Jest współproducentką aktualnie granych spektakli, a także pełni funkcję inspicjentki. Wie, jak po łacinie jest "hamulec ręczny", a nadal nie ogarnia mapy Torunia. Pasjonatka filozofii - jej ulubione zajęcie to wątpienie, stąd świetnie idzie jej upewnianie się, czy wszystko gotowe do spektaklu. Poczuła się jak bóg, gdy nauczyła się rozmnażać kwiat monstery.
 
 <div style="text-align: center;">
     <h3>Jakub Kaliski</h3>
