@@ -33,7 +33,7 @@ Teatr Antrakt na rozdaniu nagród XII Ogólnopolskiego Festiwalu Studencka Wiosn
 
 W 2024 roku podczas Studenckiej Wiosny Teatralnej organizowanej przez Akademickie Centrum Kultury w Lublinie, Teatr zdobył nagrodę publiczności oraz Grand Prix festiwalu za spektakl "Legenda o Karmazynie". 
 
-W 2025 roku po raz kolejny otrzymaliśmy Nagrodę Publiczności podczas Studenckiej Wiosny Teatralnej. Nagrodzonym spektaklem była "Tajemna Historia. 
+W 2025 roku po raz kolejny otrzymaliśmy Nagrodę Publiczności podczas Studenckiej Wiosny Teatralnej. Nagrodzonym spektaklem była "Tajemna Historia". 
 
 ## Zrealizowane premiery
 
