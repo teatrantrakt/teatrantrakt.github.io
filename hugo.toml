@@ -14,7 +14,7 @@ style = "github-dark"
   author = "Teatr Antrakt"
   info = "Studencki teatr UMK od 2022"
   description = "Strona Teatru Antrakt"
-  keywords = "theatre,teatr,student,fanpage"
+  keywords = "theatre,teatr,student,fanpage,teatr antrakt, UMK"
   avatarurl = "images/logo.png"
 
   faviconSVG = "/images/favicon.ico"
@@ -45,24 +45,49 @@ style = "github-dark"
 # Social links
 [[params.social]]
   name = "Facebook"
-  icon = "fa-brands fa-square-facebook fa-2x"
+  icon = "fa-brands fa-facebook fa-2x"
   weight = 1
   url = "https://www.facebook.com/profile.php?id=100083047405294"
 [[params.social]]
   name = "Instagram"
-  icon = "fa-brands fa-square-instagram fa-2x"
+  icon = "fa-brands fa-instagram fa-2x"
   weight = 2
   url = "https://www.instagram.com/teatr_antrakt/"
 [[params.social]]
   name = "YouTube"
-  icon = "fa-brands fa-square-youtube fa-2x"
+  icon = "fa-brands fa-youtube fa-2x"
   weight = 3
   url = "https://www.youtube.com/@teatrantrakt"
 [[params.social]]
+  name = "TikTok"
+  icon = "fa-brands fa-tiktok fa-2x"
+  weight = 4
+  url = "https://www.tiktok.com/@teatr.antrakt"
+[[params.social]]
+  name = "Spotify"
+  icon = "fa-brands fa-spotify fa-2x"
+  weight = 5
+  url = "https://open.spotify.com/album/0oG5A2HEL5qdRrP5Y3ndsg?si=NZcz36KqS2W8V7w0MaHGQg"
+[[params.social]]
   name = "Bandcamp"
   icon = "fa-brands fa-bandcamp fa-2x"
-  weight = 4
+  weight = 6
   url = "https://antraktteatr.bandcamp.com/album/nie-opuszczaj-mnie"
+[[params.social]]
+  name = "Soundcloud"
+  icon = "fa-brands fa-soundcloud fa-2x"
+  weight = 7
+  url = "https://soundcloud.com/teatrantrakt"
+[[params.social]]
+  name = "Apple music"
+  icon = "fa-brands fa-apple fa-2x"
+  weight = 8
+  url = "https://music.apple.com/pl/album/nie-opuszczaj-mnie/1854805614"
+[[params.social]]
+  name = "mail"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 9
+  url = "mailto:antraktteatr@gmail.com"
 
 # Menu links
 [[menu.main]]

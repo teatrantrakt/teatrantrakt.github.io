@@ -100,7 +100,7 @@ Inicjator Ogólnopolskiego Przeglądu Kultury Studenckiej (potocznie zwany Micha
   <img src="/images/actors/nataliaM.webp" alt="Natalia Marchelak" style="max-width: 100%; height: auto;">
 </div>
 
-**kierownik techniczna** - w Antrakcie od 2023 r., studentka kognitywistyki. Odpowiada za reżyserię świateł wszystkich spektakli Antraktu. Swoje wcześniejsze doświadczenia teatralne wiąże z działalnością w Scenie Młodych Studio P. Wielbicielka ciepła żarówy i trzasku winyla. Należy do gangu świeżaków i współtworzy kolektyw artystów spożywczych “Włoszczyzna”.
+**kierownik techniczna, świetlik, chochlik** - w Antrakcie od 2023 r., studentka kognitywistyki. Odpowiada za reżyserię świateł wszystkich spektakli Antraktu. Swoje wcześniejsze doświadczenia teatralne wiąże z działalnością w Scenie Młodych Studio P. Wielbicielka ciepła żarówy i trzasku winyla. Należy do gangu świeżaków i współtworzy kolektyw artystów spożywczych “Włoszczyzna”. Ilustruje awarie systemu.
 
 <div style="text-align: center;">
     <h3>Joanna Kobielska</h3>
