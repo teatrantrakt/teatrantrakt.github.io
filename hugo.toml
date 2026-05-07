@@ -1,5 +1,5 @@
-baseURL = 'https://teatrantrakt.github.io/'
-languageCode = 'pl-pl'
+baseURL = 'https://teatrantrakt.pl/'
+locale = 'pl'
 title = 'Teatr Antrakt'
 theme = 'hugo-coder'
 defaultcontentlanguage = "pl-pl"
@@ -12,7 +12,7 @@ style = "github-dark"
 
 [params]
   author = "Teatr Antrakt"
-  info = "Studencki teatr UMK od 2022"
+  info = ["<small>Studencki teatr UMK od 2022</small>", "Jesteśmy na [Piernikaliach 2026!](https://www.instagram.com/p/DXjZPyXiozT/)"]
   description = "Strona Teatru Antrakt"
   keywords = "theatre,teatr,student,fanpage,teatr antrakt, UMK"
   avatarurl = "images/logo.png"
